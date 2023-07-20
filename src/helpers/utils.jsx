@@ -146,6 +146,7 @@ export const sanitizeConfig = (config) => {
     },
     social: {
       linkedin: config?.social?.linkedin,
+      leetcode: config?.social?.leetcode,
       twitter: config?.social?.twitter,
       mastodon: config?.social?.mastodon,
       facebook: config?.social?.facebook,
